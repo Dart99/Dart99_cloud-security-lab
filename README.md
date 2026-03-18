@@ -14,3 +14,17 @@ Product: Customer portal
 - Unauthorized access
 - Data exposure
 - Misconfigured permissions
+
+## Architecture (Planned)
+
+- Public Web Access (Customer Portal)
+- Private Backend Service
+- Database / Storage
+- Identity & Access Management
+
+  ## First Build Target
+
+  Set up a basic cloud network environment:
+  - VPC / Virtual Network
+  - Public subnet
+  - Private subnet
